@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251367511485",
+    "project_id": "injazetask",
+    "storage_bucket": "injazetask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251367511485:android:2eb39a5a82cd0f349d2ed4",
+        "android_client_info": {
+          "package_name": "injaze.com.example.injaz_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251367511485-qqcmsmcc2pajmbhgrof4oj8ne8duhb2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn82aEKjxwOwH67DMnrbi0BUDj73s9ztM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251367511485-qqcmsmcc2pajmbhgrof4oj8ne8duhb2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
